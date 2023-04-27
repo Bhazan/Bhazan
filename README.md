@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhazan
 - 👀 I’m interested in ...Cloud, DevOps, and Programming.
-- 🌱 I’m currently learning ... AWS
+- 🌱 I’m currently working as a freelance!
 - 📫 How to reach me ... bhajandhami314@gmail.com
 
 <!---
